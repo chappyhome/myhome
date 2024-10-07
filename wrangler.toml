@@ -1,0 +1,7 @@
+name = "myhome1"
+type = "javascript"
+
+
+[build]
+command = "npm run build"
+directory = "build"
